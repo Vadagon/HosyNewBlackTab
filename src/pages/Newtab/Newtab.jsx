@@ -1,34 +1,31 @@
 import '../../assets/styles/tailwind.css';
-import React from 'react';
-import logo from '../../assets/img/logo.svg';
+import React, { useEffect, useState } from 'react';
+import bg_1 from '../../assets/img/bg_1.jpeg';
 import './index.scss';
-import Sample from '../../components/Sample/Sample'
-
-
-
-
+import ClockBg from './components/clock';
+import Footer from './components/footer';
+import SearchForm from './components/search_form';
 
 const Newtab = () => {
+  var [load, setLoad] = useState(false);
+  useEffect(() => {
+    setLoad(true);
+  });
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/pages/Newtab/Newtab.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React! <Sample name="Sara" />
-        </a>
-        <h6 className="text-red-500">color.</h6>
-      </header>
+      <div active={load ? 'true' : ''} className="loader"></div>
+      <div
+        className="p-5 flex justify-center items-center bg-[#2d2d2d] bg-fixed  bg-cover bg-no-repeat bg-center    h-[100vh]"
+        style={{
+          backgroundImage: 'url(' + bg_1 + ')',
+        }}
+      >
+        <ClockBg />
+        <SearchForm />
+        <Footer />
+      </div>
     </div>
   );
 };
 
 export default Newtab;
-
