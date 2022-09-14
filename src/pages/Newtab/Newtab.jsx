@@ -1,6 +1,6 @@
 import '../../assets/styles/tailwind.css';
 import React, { useEffect, useState } from 'react';
-import bg_1 from '../../assets/img/bg_1.jpeg';
+import bg_1 from '../../assets/img/bg_1.jpg';
 import './index.scss';
 import ClockBg from './components/clock';
 import Footer from './components/footer';
