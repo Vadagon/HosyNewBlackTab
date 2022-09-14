@@ -3,7 +3,10 @@
   "name": "__MSG_name__",
   "description": "__MSG_desc__",
   "default_locale": "en",
-  "background": { "service_worker": "background.bundle.js" },
+  "short_name": "__MSG_short_name__",
+  "background": {
+    "service_worker": "background.bundle.js"
+  },
   "chrome_url_overrides": {
     "newtab": "newtab.html"
   },
@@ -22,7 +25,11 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["content.styles.css", "icon-128.png", "icon-34.png"],
+      "resources": [
+        "content.styles.css",
+        "icon-128.png",
+        "icon-34.png"
+      ],
       "matches": []
     }
   ]

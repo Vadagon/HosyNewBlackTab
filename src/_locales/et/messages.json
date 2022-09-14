@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect New tab to organize bookmarks with lots of features. Create named folders with bookmarks, organize apps, set search bar..."
-   },
-   "name": {
-      "message": "uTab - Google Startpage"
-   },
-   "title": {
-      "message": "uTab - Google Startpage"
-   }
+    "desc": {
+        "message": "Teie isiklik tume teema uuele vahelehele. Lihtne kasutada – installige see ühe klõpsuga ja kasutage!"
+    },
+    "name": {
+        "message": "Tume teema – kohandatud uus vahekaart"
+    },
+    "short_name": {
+        "message": "Google Chrome'i uue vahelehe kohandamine"
+    },
+    "title": {
+        "message": "Tume teema – kohandatud uus vahekaart"
+    }
 }

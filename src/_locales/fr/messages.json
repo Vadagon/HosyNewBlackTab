@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Parfait nouvel onglet pour organiser les signets avec de nombreuses fonctionnalités utiles. Créez des dossiers nommés avec des signets, organisez des applications, définissez la barre de recherche..."
-   },
-   "name": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   },
-   "title": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   }
+    "desc": {
+        "message": "Votre thème sombre personnel pour la nouvelle page à onglet. Facile à utiliser - installez-le en un clic et utilisez-le !"
+    },
+    "name": {
+        "message": "Thème sombre - Nouvel onglet personnalisé"
+    },
+    "short_name": {
+        "message": "Personnalisation de la page Nouvel onglet de Google Chrome"
+    },
+    "title": {
+        "message": "Thème sombre - Nouvel onglet personnalisé"
+    }
 }

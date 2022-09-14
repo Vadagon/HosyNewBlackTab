@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfekt Ny fane til at organisere bogmærker med mange nyttige funktioner. Opret navngivne mapper med bogmærker, organiser apps, indstil søgefelt..."
-   },
-   "name": {
-      "message": "uTab - Custom New Tab"
-   },
-   "title": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   }
+    "desc": {
+        "message": "Dit personlige mørke tema til ny faneside. Nem at gå - installer den med et enkelt klik og brug!"
+    },
+    "name": {
+        "message": "Mørkt tema - Brugerdefineret ny fane"
+    },
+    "short_name": {
+        "message": "Google Chrome Ny fane-sidetilpasning"
+    },
+    "title": {
+        "message": "Mørkt tema - Brugerdefineret ny fane"
+    }
 }

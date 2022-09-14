@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect New tab to organize bookmarks with lots of features. Create named folders with bookmarks, organize apps, set search bar..."
-   },
-   "name": {
-      "message": "uTab - Custom Homepage"
-   },
-   "title": {
-      "message": "uTab - Custom Homepage"
-   }
+    "desc": {
+        "message": "Tema Gelap peribadi anda untuk halaman tab baharu. Mudah digunakan - pasang dalam satu klik dan gunakan!"
+    },
+    "name": {
+        "message": "Tema Gelap - Tab Baharu Tersuai"
+    },
+    "short_name": {
+        "message": "Penyesuaian halaman Tab Baharu Google Chrome"
+    },
+    "title": {
+        "message": "Tema Gelap - Tab Baharu Tersuai"
+    }
 }

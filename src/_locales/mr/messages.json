@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect New tab to organize bookmarks with lots of features. Create named folders with bookmarks, organize apps, set search bar..."
-   },
-   "name": {
-      "message": "uTab - Change New Tab"
-   },
-   "title": {
-      "message": "uTab - Change New Tab"
-   }
+    "desc": {
+        "message": "नवीन टॅब पेजसाठी तुमची वैयक्तिक गडद थीम. जाण्यास सोपे - एका क्लिकवर ते स्थापित करा आणि वापरा!"
+    },
+    "name": {
+        "message": "गडद थीम - सानुकूल नवीन टॅब"
+    },
+    "short_name": {
+        "message": "Google Chrome नवीन टॅब पृष्ठ सानुकूलन"
+    },
+    "title": {
+        "message": "गडद थीम - सानुकूल नवीन टॅब"
+    }
 }

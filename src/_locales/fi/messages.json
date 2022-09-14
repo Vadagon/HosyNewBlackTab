@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Täydellinen Uusi-välilehti kirjanmerkkien järjestämiseen paljon hyödyllisiä ominaisuuksia. Luo nimettyjä kansioita kirjanmerkeillä, järjestä sovelluksia, aseta hakupalkki..."
-   },
-   "name": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   },
-   "title": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   }
+    "desc": {
+        "message": "Henkilökohtainen tumma teemasi uudelle välilehdelle. Helppokäyttöinen - asenna se yhdellä napsautuksella ja käytä!"
+    },
+    "name": {
+        "message": "Tumma teema – Muokattu uusi välilehti"
+    },
+    "short_name": {
+        "message": "Google Chromen uuden välilehden sivun mukauttaminen"
+    },
+    "title": {
+        "message": "Tumma teema – Muokattu uusi välilehti"
+    }
 }

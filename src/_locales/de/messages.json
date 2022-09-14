@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfekte neue Registerkarte zum Organisieren von Lesezeichen mit vielen nützlichen Funktionen. Erstellen Sie benannte Ordner mit Lesezeichen, organisieren Sie Apps, legen Sie die Suchleiste fest ..."
-   },
-   "name": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   },
-   "title": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   }
+    "desc": {
+        "message": "Ihr persönliches Dark Theme für neue Tab-Seite. Einfach zu gehen - mit einem Klick installieren und verwenden!"
+    },
+    "name": {
+        "message": "Dunkles Design - Benutzerdefinierter neuer Tab"
+    },
+    "short_name": {
+        "message": "Anpassung der Seite \"Neuer Tab\" in Google Chrome"
+    },
+    "title": {
+        "message": "Dunkles Design - Benutzerdefinierter neuer Tab"
+    }
 }

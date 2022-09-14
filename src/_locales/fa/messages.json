@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect New tab to organize bookmarks with lots of features. Create named folders with bookmarks, organize apps, set search bar..."
-   },
-   "name": {
-      "message": "uTab - New Tab Homepage"
-   },
-   "title": {
-      "message": "uTab - New Tab Homepage"
-   }
+    "desc": {
+        "message": "طرح زمینه تاریک شخصی شما برای صفحه برگه جدید. آسان است - آن را با یک کلیک نصب کنید و استفاده کنید!"
+    },
+    "name": {
+        "message": "تم تیره - برگه جدید سفارشی"
+    },
+    "short_name": {
+        "message": "سفارشی سازی صفحه برگه جدید Google Chrome"
+    },
+    "title": {
+        "message": "تم تیره - برگه جدید سفارشی"
+    }
 }

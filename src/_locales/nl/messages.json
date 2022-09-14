@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect nieuw tabblad om bladwijzers te ordenen met veel handige functies. Maak benoemde mappen met bladwijzers, organiseer apps, stel een zoekbalk in..."
-   },
-   "name": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   },
-   "title": {
-      "message": "uTab - Unlimited Custom Dashboard"
-   }
+    "desc": {
+        "message": "Uw persoonlijke donkere thema voor nieuwe tabbladpagina. Makkelijk in gebruik - installeer het met één klik en gebruik het!"
+    },
+    "name": {
+        "message": "Donker thema - Aangepast nieuw tabblad"
+    },
+    "short_name": {
+        "message": "Aanpassing van Google Chrome Nieuw-tabblad"
+    },
+    "title": {
+        "message": "Donker thema - Aangepast nieuw tabblad"
+    }
 }

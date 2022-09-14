@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect New tab to organize bookmarks with lots of features. Create named folders with bookmarks, organize apps, set search bar..."
-   },
-   "name": {
-      "message": "uTab - New Tab Page"
-   },
-   "title": {
-      "message": "uTab - New Tab Page"
-   }
+    "desc": {
+        "message": "Ang iyong personal na Madilim na Tema para sa pahina ng bagong tab. Madaling gamitin - i-install ito sa isang click at gamitin!"
+    },
+    "name": {
+        "message": "Madilim na Tema - Custom na Bagong Tab"
+    },
+    "short_name": {
+        "message": "Pag-customize ng pahina ng Bagong Tab ng Google Chrome"
+    },
+    "title": {
+        "message": "Madilim na Tema - Custom na Bagong Tab"
+    }
 }

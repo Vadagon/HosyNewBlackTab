@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "Perfect New tab to organize bookmarks with lots of features. Create named folders with bookmarks, organize apps, set search bar..."
-   },
-   "name": {
-      "message": "uTab - New Tab Homepage"
-   },
-   "title": {
-      "message": "uTab - New Tab Homepage"
-   }
+    "desc": {
+        "message": "ಹೊಸ ಟ್ಯಾಬ್ ಪುಟಕ್ಕಾಗಿ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡಾರ್ಕ್ ಥೀಮ್. ಹೋಗಲು ಸುಲಭ - ಒಂದೇ ಕ್ಲಿಕ್‌ನಲ್ಲಿ ಅದನ್ನು ಸ್ಥಾಪಿಸಿ ಮತ್ತು ಬಳಸಿ!"
+    },
+    "name": {
+        "message": "ಡಾರ್ಕ್ ಥೀಮ್ - ಕಸ್ಟಮ್ ಹೊಸ ಟ್ಯಾಬ್"
+    },
+    "short_name": {
+        "message": "Google Chrome ಹೊಸ ಟ್ಯಾಬ್ ಪುಟ ಗ್ರಾಹಕೀಕರಣ"
+    },
+    "title": {
+        "message": "ಡಾರ್ಕ್ ಥೀಮ್ - ಕಸ್ಟಮ್ ಹೊಸ ಟ್ಯಾಬ್"
+    }
 }

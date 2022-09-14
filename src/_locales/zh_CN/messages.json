@@ -1,11 +1,14 @@
 {
-   "desc": {
-      "message": "完美的新标签可以组织具有许多有用功能的书签。 使用书签创建命名文件夹，组织应用程序，设置搜索栏...."
-   },
-   "name": {
-      "message": "uTab - Custom New Tab"
-   },
-   "title": {
-      "message": "uTab - Custom New Tab"
-   }
+    "desc": {
+        "message": "您的新标签页的个人黑暗主题。易于使用 - 一键安装并使用！"
+    },
+    "name": {
+        "message": "深色主题 - 自定义新标签"
+    },
+    "short_name": {
+        "message": "谷歌浏览器新标签页自定义"
+    },
+    "title": {
+        "message": "深色主题 - 自定义新标签"
+    }
 }
