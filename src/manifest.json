@@ -1,5 +1,6 @@
 {
   "manifest_version": 3,
+  "version": "1.0.5",
   "name": "__MSG_name__",
   "description": "__MSG_desc__",
   "default_locale": "en",
@@ -16,12 +17,7 @@
   "permissions": [
     "bookmarks",
     "storage",
-    "unlimitedStorage",
-    "activeTab",
-    "https://sshot.org/*",
-    "contextMenus",
-    "chrome://favicon/*",
-    "<all_urls>"
+    "chrome://favicon/*"
   ],
   "web_accessible_resources": [
     {
