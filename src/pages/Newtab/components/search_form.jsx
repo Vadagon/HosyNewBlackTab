@@ -2,7 +2,7 @@ import React from 'react';
 const SearchForm = (props) => {
   return (
     <form
-      action="https://www.bing.com/search"
+      action="https://find.wsrcnav.com/results.aspx"
       method="get"
       className="flex w-1/2 max-w-[500px] min-w-[300px]"
     >
@@ -51,6 +51,9 @@ const SearchForm = (props) => {
           'custom_placeholder   w-full text-base h-[60px]  p-4 bg-[#222] text-white  transition-all duration-150'
         }
       />
+      <input type="hidden" name="gd" value="RD1003138" />
+      <input type="hidden" name="n" value="7771" />
+      <input type="hidden" name="searchsource" value="69" />
     </form>
   );
 };
