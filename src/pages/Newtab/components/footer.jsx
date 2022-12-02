@@ -31,6 +31,13 @@ const Footer = (props) => {
       >
         Contact Us
       </a>
+      <a
+        href={'https://unicore-alliance.net/about/index.html'}
+        rel={'noreferrer'}
+        className="text-[#ffffff8a] mr-3"
+      >
+        About Us
+      </a>
     </div>
   );
 };

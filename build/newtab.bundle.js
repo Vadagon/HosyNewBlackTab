@@ -54817,7 +54817,11 @@ const Footer = props => {
     href: 'https://unicore-alliance.net/contacts/index.html',
     rel: 'noreferrer',
     className: "text-[#ffffff8a] mr-3"
-  }, "Contact Us"));
+  }, "Contact Us"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("a", {
+    href: 'https://unicore-alliance.net/about/index.html',
+    rel: 'noreferrer',
+    className: "text-[#ffffff8a] mr-3"
+  }, "About Us"));
 };
 
 const _default = Footer;
@@ -57870,7 +57874,7 @@ module.exports = JSON.parse('{"version":"2022c","zones":["Africa/Abidjan|LMT GMT
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("ff88c4a817865873c80a")
+/******/ 		__webpack_require__.h = () => ("99ba9c103b9b40698665")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/harmony module decorator */
